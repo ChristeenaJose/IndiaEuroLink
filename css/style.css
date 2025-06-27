@@ -139,3 +139,17 @@ body {
     align-items: flex-start;
   }
 }
+.contact-btn {
+  display: inline-block;
+  background-color: var(--orange);
+  color: white;
+  padding: 1rem 2rem;
+  text-decoration: none;
+  font-weight: 600;
+  border-radius: 4px;
+  margin-top: 2rem;
+}
+
+.contact-btn:hover {
+  background-color: #e55b10;
+}
